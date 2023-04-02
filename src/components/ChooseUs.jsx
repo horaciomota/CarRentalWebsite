@@ -1,4 +1,4 @@
-import MainImg from "../images/chooseUs/main.png";
+import MainImg from "../images/chooseUs/main2.png";
 import Box1 from "../images/chooseUs/icon1.png";
 import Box2 from "../images/chooseUs/icon2.png";
 import Box3 from "../images/chooseUs/icon3.png";
@@ -17,14 +17,18 @@ function ChooseUs() {
             <div className="text-container">
               <div className="text-container__left">
                 <h4>Why Choose Us</h4>
-                <h2>Best valued deals you will ever find</h2>
+                <h2>The best of Ireland with our unbeatable deal</h2>
                 <p>
-                  Discover the best deals you'll ever find with our unbeatable
-                  offers. We're dedicated to providing you with the best value
-                  for your money, so you can enjoy top-quality services and
-                  products without breaking the bank. Our deals are designed to
-                  give you the ultimate renting experience, so don't miss out on
-                  your chance to save big.
+                  We're committed to offering you the best value for your money
+                  so that you can explore the Emerald Isle without worrying
+                  about your budget. Our deals are tailored to meet your needs
+                  and preferences, so you can enjoy top-quality car rental
+                  services at affordable rates. With our extensive fleet of
+                  vehicles, flexible pick-up and drop-off options, and
+                  outstanding customer service, we're here to ensure that your
+                  Irish adventure is both unforgettable and hassle-free. Don't
+                  miss out on your chance to save big - book with us today and
+                  get ready to discover all that Ireland has to offer!
                 </p>
                 <a href="#home">
                   Find Details &nbsp;

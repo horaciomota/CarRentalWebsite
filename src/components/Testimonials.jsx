@@ -24,16 +24,17 @@ function Testimonials() {
                   <i className="fa-solid fa-quote-right"></i>
                 </span>
                 <p>
-                  "We rented a car from this website and had an amazing
-                  experience! The booking was easy and the rental rates were
-                  very affordable. "
+                  "I've rented cars from a lot of different companies over the
+                  years, but [Company Name] is hands down the best. The rates
+                  are unbeatable, and the service is top-notch. I'll never rent
+                  from anyone else again!"
                 </p>
                 <div className="all-testimonials__box__name">
-                  <div className="all-testimonials__box__name__profile">
-                    <img src={Img2} alt="user_img" />
+                  <div className="all-testimonials__box__name__profile img-fluid">
+                    <img src={Img2} alt="user_img" className="img-fluid" />
                     <span>
-                      <h4>Parry Hotter</h4>
-                      <p>Belgrade</p>
+                      <h4>Marry Lincon</h4>
+                      <p>Galway</p>
                     </span>
                   </div>
                 </div>
@@ -44,15 +45,17 @@ function Testimonials() {
                   <i className="fa-solid fa-quote-right"></i>
                 </span>
                 <p>
-                  "The car was in great condition and made our trip even better.
-                  Highly recommend for this car rental website!"
+                  "I rented a car from [Company Name] for my trip to Ireland and
+                  was blown away by the quality of service. The staff were
+                  friendly and helpful, and the car was clean and reliable. I
+                  would definitely recommend them to anyone visiting Ireland."
                 </p>
                 <div className="all-testimonials__box__name">
                   <div className="all-testimonials__box__name__profile">
-                    <img src={Img3} alt="user_img" />
+                    <img src={Img3} alt="user_img" className="img-fluid" />
                     <span>
                       <h4>Ron Rizzly</h4>
-                      <p>Novi Sad</p>
+                      <p>Dublin</p>
                     </span>
                   </div>
                 </div>
